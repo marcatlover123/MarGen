@@ -56,6 +56,7 @@ Now, we'll come back to this later.
 
 ## Hosting
 If you want to host it on a vps, you can use DigitalOcean and get a free 200$ of credit for 2 months for only paying 5$
+[Terrible Tutorial I Made For Hosting It](https://www.youtube.com/watch?v=vc3JVqbkhTw)
 
 You can also use [OnRender](https://onrender.com/), it's free and just like heroku but with super slow upload times but it works perfectly fine, I have not had more than 3 people worth of afk going through my OnRender server at one point so be careful with free servers as they might cost you SSID's.
 
